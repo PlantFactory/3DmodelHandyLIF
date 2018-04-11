@@ -2,4 +2,4 @@
 
 Handy type LIF for kakazu sensei.
 
-!(HandyLIF)[HandyLIF.jpg]
+![HandyLIF](HandyLIF.jpg)
